@@ -1,0 +1,14 @@
+C:\Users\iborgunn\source\repos\kree111\bin\Debug\net10.0\kree111.exe
+C:\Users\iborgunn\source\repos\kree111\bin\Debug\net10.0\kree111.deps.json
+C:\Users\iborgunn\source\repos\kree111\bin\Debug\net10.0\kree111.runtimeconfig.json
+C:\Users\iborgunn\source\repos\kree111\bin\Debug\net10.0\kree111.dll
+C:\Users\iborgunn\source\repos\kree111\bin\Debug\net10.0\kree111.pdb
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.AssemblyInfoInputs.cache
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.AssemblyInfo.cs
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.csproj.CoreCompileInputs.cache
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.dll
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\refint\kree111.dll
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.pdb
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\kree111.genruntimeconfig.cache
+C:\Users\iborgunn\source\repos\kree111\obj\Debug\net10.0\ref\kree111.dll
